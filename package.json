@@ -1,0 +1,14 @@
+{
+  "name": "gobarber",
+  "version": "1.0.0",
+  "description": "API para o sistema de barbaria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Glauber Rodrigues Jordão",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
